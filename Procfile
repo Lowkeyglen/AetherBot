@@ -1,1 +1,1 @@
-worker: python aetherbot.py
+worker: python Aetherbot.py
