@@ -1,0 +1,7 @@
+{
+  "name": "aetherbot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "python aetherbot.py"
+  }
+}
